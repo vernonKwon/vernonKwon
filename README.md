@@ -1,5 +1,6 @@
 [![gmail Email Badge](https://img.shields.io/badge/google-email-green?logo=gmail&style=plastic)](mailto:kwondroid0622@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/notion-resume-red?logo=notion&style=plastic)](https://resume.kwondroid.com)
+[![Blog Badge](https://img.shields.io/badge/tistory-blog-blue?logo=tistory&style=plastic)](https://blog.kwondroid.com)
 
 ### Self-introduction
 
