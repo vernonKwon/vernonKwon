@@ -5,7 +5,7 @@
 ### Self-introduction
 
 - I am capable of full-stack web development and have a keen interest in backend development.
-- I live in Incheon, Korea.
+- I live in Gwangmyeong, Korea.
 - I was born in 1999.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vernonKwon&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="330px">
